@@ -10,5 +10,5 @@ Works best with MATLAB 2016B. You need the function C2 present in the
 % 
 %  Use the following example files provided with this code to test:
 % 1) TrackMate data file: C1_313_example_tracks.mat
-% 2) Avi file: 313_SIF_sorted_select_bright copy_20.avi
+% 2) Avi file: 313_copy_20.avi
 %%
